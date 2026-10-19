@@ -1,0 +1,5 @@
+# Зависимости — ставятся install.ps1
+bridge/venv/
+__pycache__/
+*.pyc
+bridge/bridge.log

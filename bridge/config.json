@@ -1,0 +1,6 @@
+{
+  "base_url": "https://chat.deepseek.com/",
+  "headless": true,
+  "timeout_chat_sec": 1500,
+  "locale": "ru"
+}

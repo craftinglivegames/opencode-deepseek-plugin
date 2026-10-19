@@ -1,0 +1,12 @@
+{
+  "name": "opencode-deepseek-plugin",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Генерация текстов для рефератов и курсовых через веб-чат DeepSeek",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "dependencies": {
+    "@opencode/plugin": "latest"
+  }
+}
